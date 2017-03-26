@@ -5,7 +5,8 @@
 ---
 
 ### Stack Overflow Question 34139812
-Xcode project & source code related to [UIScrollView on iOS and Storyboard and Xcode with 0 lines of code](http://stackoverflow.com/a/34140935/218152) anwser.
+
+Xcode project & source code related to [UIScrollView on iOS and Storyboard and Xcode with 0 lines of code](https://stackoverflow.com/questions/34139812/android-like-scrollview-in-ios-swift2-1/34140935#34140935) answer.
 
 ![preview](https://i.stack.imgur.com/KIcni.png)
 
@@ -17,6 +18,6 @@ Xcode project & source code related to [UIScrollView on iOS and Storyboard and X
 
 **References:**
 
-- SO-34139812 on [Stack Overflow](http://stackoverflow.com/questions/34139812/android-like-scrollview-in-ios-swift2-1)
+- Question [34139812](https://stackoverflow.com/questions/34139812) on Stack Overflow
 - This and other answers posted on [Swift Recipes](http://swiftarchitect.com/recipes/)
 
